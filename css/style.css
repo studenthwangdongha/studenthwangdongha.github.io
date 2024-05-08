@@ -1,0 +1,14 @@
+/* 전역 css 정의 */
+h1 {
+    font-size: 50px;
+    color: red;
+    background-color: yellow;
+}
+
+/* footer 영역 css 정의 */
+h5 {
+    text-align: center;
+    font-size: 10px;
+    background-color: grey;
+    color: #222222;
+}
