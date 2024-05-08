@@ -56,7 +56,9 @@ input:focus {
 div.main {
     width: 200px;
     height: 30px;
-    background-color: #dddddd;
+    /* background-color: #dddddd; */
+    background-image: url(../images/bg2.png);
+    /* background-repeat: norepeat; */
     text-align: center;
     border: blue outset 5px;
     /* border-radius: 10px; */
