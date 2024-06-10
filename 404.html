@@ -1,21 +1,18 @@
 ---
-layout: home-page
-permalink: /404.html
-title: Sorry 
+layout: page
+title: Page Not Found
+background: grey
 ---
-{% include calculate_relative_base.html %}
-{% include escape-404.html %}
-<a href="{{ relativebase }}">
-    <picture>
-      <source srcset="{{ relativebase }}assets/img/404_small.jpg" media="(max-width: 768px)">
-      <source srcset="{{ relativebase }}assets/img/404.jpg">
-      <img src="{{ relativebase }}assets/img/404.jpg" alt="Page not found" class="pnf-image" style="width:100vw;max-width:unset;margin-left:calc((100% - 100vw)/2);margin-top:-16.5px;">
-    </picture>
-</a>
-{% include recent-post.html %}
-<form class="search-form inline">
-    <div id="search-container">
-        <input type="text" id="search-input" class="search" placeholder="Search">
+
+<section class="page-section">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12 text-center">
+        <h2 class="section-heading text-uppercase">404 - Page Not Found</h2>
+        <h3 class="section-subheading text-muted">
+          The requested page could not be found.
+        </h3>
+      </div>
     </div>
-</form>
-<ul id="results-container" class="results-search"></ul>
+  </div>
+</section>
