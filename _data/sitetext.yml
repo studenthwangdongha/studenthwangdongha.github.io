@@ -487,8 +487,9 @@ ko: &DEFAULT_KO
     section: 나의 소개
     list:
       - title: "인적 사항"
-        desc: 
-          "이름 : 황동하" <br> "학적 : 목원대학교 재학"
+        desc: |
+          이름 : 황동하 
+          학적 : 목원대학교 재학
         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
       - title: "장점 및 단점"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
