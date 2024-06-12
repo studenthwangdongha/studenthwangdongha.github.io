@@ -81,15 +81,15 @@ ko: &DEFAULT_ko
   nav:
     - title: "사이트 소개"
       section: 나의 소개
-    - title: "Portfolio"
-      section: portfolio
-    - title: "About"
-      section: about
-    - title: "Timeline"
-      section: timeline
-    - title: "Team"
-      section: team
-    - title: "Contact"
-      section: contact
+      section: 나의 장단점
+      section: 단점에 대한 극복
+      section: 연락처
+    - title: "프로젝트 소개"
+      section: AL(에프터이펙트)를 이용한 작업
+      section: 캡스톤 디자인에서 작업한 디자인 작업
+    - title: "추가정보"
+      section: 공지사항
+      section: 자료실
+      section: 깃허브 링크
     - title: "Theme Source"
       url: https://github.com/raviriley/agency-jekyll-theme/
