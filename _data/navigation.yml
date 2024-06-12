@@ -91,5 +91,5 @@ ko: &DEFAULT_ko
       section: 공지사항
       section: 자료실
       section: 깃허브 링크
-    - title: "Theme Source"
+    - title: "테마 소스"
       url: https://github.com/raviriley/agency-jekyll-theme/
