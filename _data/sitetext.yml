@@ -479,7 +479,7 @@ ko: &DEFAULT_KO
     title: 어서오세요
     text: 저의 포트폴리오에 대해 알아봅시다
     button: 자세히 보기
-    buttonlink: "#services"
+    buttonlink: "#나의 소개"
 
   services:
     title: "나의 소개"
