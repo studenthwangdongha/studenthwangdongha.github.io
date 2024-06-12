@@ -477,7 +477,7 @@ de-DE:
 ko: &DEFAULT_KO
   header:
     title: 어서오세요
-    text: 지금부터 저의 포트폴리오에 대해 알아봅시다
+    text: 저의 포트폴리오에 대해 알아봅시다
     button: 자세히 보기
     buttonlink: "#services"
 
@@ -488,8 +488,8 @@ ko: &DEFAULT_KO
     list:
       - title: "인적사항"
         desc: 
-          "이름 : 황동하
-           학적 : 목원대학교 재학"
+          "이름 : 황동하" <br>
+          "학적 : 목원대학교 재학"
         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
       - title: "Responsive Design"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
