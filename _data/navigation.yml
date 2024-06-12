@@ -77,19 +77,13 @@ de: &DEFAULT_DE
       url: https://github.com/raviriley/agency-jekyll-theme/
 de-DE:
   <<: *DEFAULT_DE
-ko: &DEFAULT_ko
+ko: &DEFAULT_KO
   nav:
-    - title: "사이트 소개"
+    - title: "나의 소개"
       section: 나의 소개
-      section: 나의 장단점
-      section: 단점에 대한 극복
-      section: 연락처
     - title: "프로젝트 소개"
-      section: AL(에프터이펙트)를 이용한 작업
-      section: 캡스톤 디자인에서 작업한 디자인 작업
+      section: 프로젝트 소개
     - title: "추가정보"
-      section: 공지사항
-      section: 자료실
-      section: 깃허브 링크
+      section: 추가정보
     - title: "테마 소스"
       url: https://github.com/raviriley/agency-jekyll-theme/
