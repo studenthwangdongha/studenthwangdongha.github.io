@@ -4,7 +4,7 @@
 #black: "#000"
 
 #Image Customization
-header-image: "../img/plane.png"
+header-image: "../img/plane.png/400x300"
 contact-image: "../img/contact.png"
 Font Awesome: fa-solid fa-person fa-bounce
 #portfolio-icon: fas fa-expand-arrows-alt fa-3x #default: fas fa-plus fa-3x
