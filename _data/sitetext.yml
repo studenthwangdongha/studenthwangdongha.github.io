@@ -500,7 +500,7 @@ ko: &DEFAULT_KO
         icon: fas fa-laptop
       - title: "단점 극복"
         desc: "Your description here, full **Markdown** support"
-        icon: <i class="fa-solid fa-magnifying-glass fa-beat-fade" style="color: #B197FC;"></i>
+        icon: fa-solid fa-magnifying-glass fa-beat-fade style=color: #B197FC;
 
   portfolio:
     title: "프로젝트 소개"
