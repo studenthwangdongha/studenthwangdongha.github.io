@@ -10,3 +10,13 @@ subtitle: 게임 화면 중 메인화면
 image: <img src="../assets/img/portfolio/main.jpg" alt="썸네일" width="400" height="300">
 alt: image alt text
 
+---
+Use this area to describe your project. **Markdown** supported.
+
+optional info list (delete if not using):
+
+{:.list-inline} 
+- Date: 
+- Client: 
+- Category: 
+
