@@ -6,7 +6,7 @@
 #Image Customization
 header-image: "../img/header.png"
 contact-image: "../img/contact.png"
-#Font Awesome icon for portfolio grid when an item is hovered over
+Font Awesome: <i class="fa-solid fa-person fa-bounce"></i>
 #portfolio-icon: fas fa-expand-arrows-alt fa-3x #default: fas fa-plus fa-3x
 
 # Add custom fonts
