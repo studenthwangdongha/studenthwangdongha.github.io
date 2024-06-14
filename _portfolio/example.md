@@ -5,9 +5,9 @@ caption: #what displays in the portfolio grid:
   thumbnail: https://place-hold.it/400x300
   
 #what displays when the item is clicked:
-title: Title
-subtitle: subtitle lorem ipsum dolor sit amet consectetur.
-image: https://place-hold.it/400x300 #main image, can be a link or a file in assets/img/portfolio
+title: 메인화면
+subtitle: 게임 화면 중 메인화면
+image: <img src="../assets/img/portfolio/main.jpg" alt="썸네일" width="400" height="300">
 alt: image alt text
 
 ---
