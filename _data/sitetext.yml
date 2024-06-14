@@ -517,12 +517,13 @@ ko: &DEFAULT_KO
   portfolio:
     title: "프로젝트 소개"
     text: "Lorem ipsum dolor sit amet consectetur."
-    section: portfolio
+    section: 프로젝트 소개
     closebutton: "Close Project"
   
-    about:
-    title: "자세히 보기"
+  about:
+    title: "추가 정보"
     text: "포트폴리오에 대한 내용의 자세한 내용"
+    section: 추가 정보
     body: |
       - 메인화면 <br>
       1. 괴도루팡 글씨 <br>
@@ -545,8 +546,6 @@ ko: &DEFAULT_KO
       5. 미로 제작 <br>
       - 게임을 시작하기에 앞서 간단한 이벤트인 미로를 통해 시작하도록 설계함. <br>
       - 미로를 통해 빨간색 풀이 사라질 때 진행이 가능하도록 만들어짐. <br>
-
-    section: 추가정보
 
   footer:
     legal: "Privacy Policy"
