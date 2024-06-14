@@ -493,7 +493,10 @@ ko: &DEFAULT_KO
 
         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
       - title: "장점 및 단점"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+        desc: |
+          장점: <br> 
+          1. 배려심이 깊다. <br>
+          2. 
         icon: fas fa-laptop
       - title: "단점 극복"
         desc: "Your description here, full **Markdown** support"
