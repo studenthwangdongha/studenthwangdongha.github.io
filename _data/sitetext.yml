@@ -516,9 +516,9 @@ ko: &DEFAULT_KO
 
   portfolio:
     title: "프로젝트 소개"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    text: "작업물들에 대한 이미지 첨부"
     section: 프로젝트 소개
-    closebutton: "Close Project"
+    closebutton: "뒤로 가기"
   
   about:
     title: "추가정보"
