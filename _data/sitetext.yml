@@ -550,5 +550,5 @@ ko: &DEFAULT_KO
   footer:
     legal: "Privacy Policy"
     social:
-      - url: https://github.com/studenthwangdongha
+      - url: https://github.com/raviriley/agency-jekyll-theme
         icon: "fab fa-github"
