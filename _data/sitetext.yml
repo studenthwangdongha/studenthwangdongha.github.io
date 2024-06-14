@@ -521,9 +521,9 @@ ko: &DEFAULT_KO
     closebutton: "Close Project"
   
   about:
-    title: "추가 정보"
+    title: "추가정보"
     text: "포트폴리오에 대한 내용의 자세한 내용"
-    section: 추가 정보
+    section: 추가정보
     body: |
       - 메인화면 <br>
       1. 괴도루팡 글씨 <br>
