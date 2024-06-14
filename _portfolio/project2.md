@@ -5,7 +5,7 @@ image: <img src="../assets/img/portfolio/paper.jpg" alt="썸네일" width="400px
 alt: Keep Exploring
 
 caption:
-  title: 지화면
+  title: 쪽지화면
   subtitle: 게임중 스토리 및 힌트 이미지
   thumbnail: <img src="../assets/img/portfolio/paper.jpg" alt="썸네일" width="400px" height="300px">
 ---
