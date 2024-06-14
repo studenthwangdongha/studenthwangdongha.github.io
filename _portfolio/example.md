@@ -1,8 +1,8 @@
 ---
 caption: #what displays in the portfolio grid:
-  title: Example
-  subtitle: subtitle
-  thumbnail: https://place-hold.it/400x300
+  title: 메인화면
+  subtitle: 게임 중 메인화면
+  thumbnail: <img src="assets/img/portfolio/main.jpg" alt="썸네일" width="400" height="300">
   
 #what displays when the item is clicked:
 title: 메인화면
